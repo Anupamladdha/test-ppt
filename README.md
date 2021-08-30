@@ -1,6 +1,6 @@
-# {{DECKDECKGO_TITLE}}
+# Test ppt
 
-{{DECKDECKGO_DESCRIPTION}} 
+Test ppt push from deckdeckgo 
 
 ## Table of contents
 
@@ -11,15 +11,15 @@
 
 ## Slides
 
-🔗 [https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}}](https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}})
+🔗 [https://beta.deckdeckgo.io/anupamladdha29/test-ppt/](https://beta.deckdeckgo.io/anupamladdha29/test-ppt/)
 
 ## Usage
 
 💻 To get started locally with this presentation, clone this repo and install its dependencies.
 
 ```
-git clone {{DECKDECKGO_GITHUB_REPO_URL}}
-cd {{DECKDECKGO_GITHUB_REPO_NAME}}
+git clone https://github.com/Anupamladdha/test-ppt
+cd test-ppt
 npm install
 ```
 
