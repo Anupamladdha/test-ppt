@@ -28,8 +28,8 @@ const config = {
     devServer: {
         open: true,
         port: 3000,
-        publicPath: '{{DECKDECKGO_BASE_HREF}}',
-        openPage: 'http://localhost:3000{{DECKDECKGO_BASE_HREF}}'
+        publicPath: '/anupamladdha29/test-ppt/',
+        openPage: 'http://localhost:3000/anupamladdha29/test-ppt/'
     }
 };
 
